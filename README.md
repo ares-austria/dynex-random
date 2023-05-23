@@ -1,6 +1,13 @@
 # dynex-random
 dynex random
 
+
+## YalSAT vs. Dynex Neuromorphic Chip SAT Solver
+
+Watch video on YouTube: <a href="https://youtu.be/kh3xYDh3uXc">Dynex SAT solver vs. YalSAT benchmark</a>
+
+[![Watch the video](https://img.youtube.com/vi/kh3xYDh3uXc/default.jpg)](https://youtu.be/kh3xYDh3uXc)
+
 <a href="https://github.com/ares-austria/dynex-random/blob/main/yalsat-transformed_barthel_n_100000_r_8.000_p0_0.080_instance_001.log">YalSAT on Dynex example transformed_barthel_n_100000_r_8.000_p0_0.080_instance_001.cnf</a>
 
 ## Daniel Mattes vs. SEC fraud filing
