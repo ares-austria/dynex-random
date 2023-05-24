@@ -1,6 +1,10 @@
 # dynex-random
-dynex random
 
+## Dynex SAT benchmarks cherry picking data for YalSAT (single threaded)
+
+Dynex, please add PalSAT (Parallel Simple Portfolio Version) results to the benchmarks list. YalSAT (Sequential Standalone Version) is single threaded only and it skews the results in favor of Dynex.
+
+<a href="https://github.com/ares-austria/dynex-random/blob/main/yalsat-vs-dynex-sat.md">Dynex SAT benchmarks cherry picking data for YalSAT</a>
 
 ## YalSAT vs. Dynex Neuromorphic Chip SAT Solver
 
