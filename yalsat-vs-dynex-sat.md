@@ -1,3 +1,5 @@
+# Dynex SAT benchmarks cherry picking data for YalSAT
+
 Please add PalSAT (Parallel Simple Portfolio Version) results to the benchmarks list. YalSAT (Sequential Standalone Version) is single threaded only and it skews the results in favor of Dynex.
 
 The added benchmark continue the trend of cherry picking results. They display the YalSAT solver as being inferior, likely as a response to a [video displaying the performance of YalSAT vs Dynex](https://www.youtube.at/watch?v=kh3xYDh3uXc). This was quite embarrassing, so it seems the team has added more data to prove their point that:
